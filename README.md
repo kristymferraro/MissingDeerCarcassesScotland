@@ -1,0 +1,1 @@
+This code is for Ferraro and Hirst, 2024 (Ecological Solutions and Evidence). All data were obtained from either NatureScot, Space Intellegence, or Tomlinson et al. 2021. Plese contact them for data. 
